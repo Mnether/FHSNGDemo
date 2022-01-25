@@ -1,10 +1,16 @@
 {
   "profiles": {
-    "SpecFlowDemo": {
-      "commandName": "Project"
+    "ChromeDriver": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\mnethery\\Downloads\\chromedriver_win32\\chromedriver.exe",
+      "jsWebView2Debugging": true,
+      "sqlDebugging": true,
+      "nativeDebugging": true
     },
     "Profile 1": {
-      "commandName": "Executable"
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\mnethery\\Downloads\\chromedriver_win32\\chromedriver.exe",
+      "nativeDebugging": true
     }
   }
 }

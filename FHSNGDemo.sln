@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpecFlowDemo", "SpecFlowDemo.csproj", "{958DDC6F-9CEA-4B9C-B065-7E5BF2C3209E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FHSNGDemo", "FHSNGDemo.csproj", "{958DDC6F-9CEA-4B9C-B065-7E5BF2C3209E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +17,12 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{958DDC6F-9CEA-4B9C-B065-7E5BF2C3209E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{958DDC6F-9CEA-4B9C-B065-7E5BF2C3209E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{958DDC6F-9CEA-4B9C-B065-7E5BF2C3209E}.Debug|x64.ActiveCfg = Debug|x64
-		{958DDC6F-9CEA-4B9C-B065-7E5BF2C3209E}.Debug|x64.Build.0 = Debug|x64
+		{958DDC6F-9CEA-4B9C-B065-7E5BF2C3209E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{958DDC6F-9CEA-4B9C-B065-7E5BF2C3209E}.Debug|x64.Build.0 = Debug|Any CPU
 		{958DDC6F-9CEA-4B9C-B065-7E5BF2C3209E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{958DDC6F-9CEA-4B9C-B065-7E5BF2C3209E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{958DDC6F-9CEA-4B9C-B065-7E5BF2C3209E}.Release|x64.ActiveCfg = Release|x64
-		{958DDC6F-9CEA-4B9C-B065-7E5BF2C3209E}.Release|x64.Build.0 = Release|x64
+		{958DDC6F-9CEA-4B9C-B065-7E5BF2C3209E}.Release|x64.ActiveCfg = Test|x64
+		{958DDC6F-9CEA-4B9C-B065-7E5BF2C3209E}.Release|x64.Build.0 = Test|x64
 		{958DDC6F-9CEA-4B9C-B065-7E5BF2C3209E}.Test|Any CPU.ActiveCfg = Test|Any CPU
 		{958DDC6F-9CEA-4B9C-B065-7E5BF2C3209E}.Test|Any CPU.Build.0 = Test|Any CPU
 		{958DDC6F-9CEA-4B9C-B065-7E5BF2C3209E}.Test|x64.ActiveCfg = Test|x64
